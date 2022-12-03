@@ -1,0 +1,142 @@
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.exe
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.deps.json
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.runtimeconfig.json
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Test3.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.AssemblyReference.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.Form1.resources
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.GenerateResource.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfoInputs.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfo.cs
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CoreCompileInputs.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\refint\Test3.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.genruntimeconfig.cache
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\ref\Test3.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Entidad.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Entidad.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CopyComplete
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.FormSalones.resources
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.materias.resources
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.Grupos.resources
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Logiica.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\Logiica.pdb
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Intel Core i7\source\repos\Test3\Test3\obj\Debug\net6.0-windows\Test3.Estudiantes.resources
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Test3.exe
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Test3.deps.json
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Test3.runtimeconfig.json
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Test3.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Test3.pdb
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Datos.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Entidad.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Logiica.dll
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Datos.pdb
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Entidad.pdb
+D:\Descargas\Test3\Test3\bin\Debug\net6.0-windows\Logiica.pdb
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.AssemblyReference.cache
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.Estudiantes.resources
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.Form1.resources
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.FormSalones.resources
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.Grupos.resources
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.materias.resources
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.GenerateResource.cache
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfoInputs.cache
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfo.cs
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CoreCompileInputs.cache
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CopyComplete
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.dll
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\refint\Test3.dll
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.pdb
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.genruntimeconfig.cache
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\ref\Test3.dll
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.Horarios.resources
+D:\Descargas\Test3\Test3\obj\Debug\net6.0-windows\Test3.Filtrado.resources
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.exe
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.deps.json
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.runtimeconfig.json
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.pdb
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Entidad.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Logiica.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Entidad.pdb
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\bin\Debug\net6.0-windows\Logiica.pdb
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.AssemblyReference.cache
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Estudiantes.resources
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Filtrado.resources
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Form1.resources
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.FormSalones.resources
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Grupos.resources
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Horarios.resources
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.materias.resources
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.GenerateResource.cache
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfoInputs.cache
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfo.cs
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CoreCompileInputs.cache
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CopyComplete
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\refint\Test3.dll
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.pdb
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.genruntimeconfig.cache
+C:\Users\Intel Core i7\Downloads\Test4\Test3\Test3\obj\Debug\net6.0-windows\ref\Test3.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.exe
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.deps.json
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.runtimeconfig.json
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Test3.pdb
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Datos.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Entidad.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Logiica.dll
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Datos.pdb
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Entidad.pdb
+E:\Test4\Test3\Test3\bin\Debug\net6.0-windows\Logiica.pdb
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.AssemblyReference.cache
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Estudiantes.resources
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Filtrado.resources
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Form1.resources
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.FormSalones.resources
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Grupos.resources
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.Horarios.resources
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.materias.resources
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.GenerateResource.cache
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfoInputs.cache
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.AssemblyInfo.cs
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CoreCompileInputs.cache
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.csproj.CopyComplete
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.dll
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\refint\Test3.dll
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.pdb
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\Test3.genruntimeconfig.cache
+E:\Test4\Test3\Test3\obj\Debug\net6.0-windows\ref\Test3.dll

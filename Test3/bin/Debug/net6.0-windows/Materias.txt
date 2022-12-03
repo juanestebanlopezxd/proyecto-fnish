@@ -1,0 +1,13 @@
+528;programacion;5
+1233;Prog;3
+1827;Prog;2
+9128;prog;34
+312;programar;4
+15;Calculo;4
+15;programacion;5
+154;Prog;4
+154;Prog;5
+147;porogramacion;3
+24;ingles;5
+567;programacion;5
+123;Pro 3;4
